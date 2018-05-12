@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16827#Le-village-a-rien
 gutenberg_bookshelf:
 - FR Science fiction
 - FR Littérature
